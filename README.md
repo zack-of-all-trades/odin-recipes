@@ -6,3 +6,5 @@ I am to demonstrate what I have learned so far by creating a main index HTML web
 By the end of the project I hope do have demonstrated the following skills:  create an index file and html boilerplate, 
 properly use elements and tags to make things look organized and neat, create images, create links, and use GitHub throughout
 making the webpage to maintain  usable "save" points.
+
+Update:  I have now learned the basics of CSS, and am to apply what I have learned to visually enhance my Odin Recipe webpage.
