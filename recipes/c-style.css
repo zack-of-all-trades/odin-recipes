@@ -1,19 +1,20 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
     background-image: linear-gradient(
         90deg,
-        #01075c 0%,
-        #01075c 20%,
+        #ccab1c 0%,
+        #ccab1c 20%,
         #c9c9c9 20%,
         #c9c9c9 80%,
-        #01075c 80%,
-        #01075c 100% 
+        #ccab1c 80%,
+        #ccab1c 100% 
     );
 }
 
 h1 {
     text-align: center;
-    color: darkblue;
+    color: #ccab1c;
     font-weight: bold;
     font-size: 60px;
 }
@@ -26,7 +27,7 @@ img{
     height: auto;
     border-style: double;
     border-width: 20px;
-    border-color: black darkblue;
+    border-color: black #ccab1c;
 }
 
 h2{
@@ -52,13 +53,12 @@ h4{
 }
 
 ul{
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 36%;
+    margin-right: 36%;
 }
    
 .text, ul, .steps{
     line-height: 1.5;
     font-size: 18px;
-    color: black;
     font-weight: 500;
 }

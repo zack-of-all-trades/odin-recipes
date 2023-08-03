@@ -1,5 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
     background-image: linear-gradient(
         90deg,
         #44a125 0%,
@@ -13,7 +14,7 @@ body {
 
 h1 {
     text-align: center;
-    color: green;
+    color: #44a125;
     font-weight: bold;
     font-size: 60px;
 }
@@ -26,7 +27,7 @@ img{
     height: auto;
     border-style: double;
     border-width: 20px;
-    border-color: black green;
+    border-color: black #44a125;
 }
 
 h2{
@@ -52,13 +53,12 @@ h4{
 }
 
 ul{
-    margin-left: 42%;
+    margin-left: 41%;
     margin-right: 35%;
 }
    
 .text, ul, .steps{
     line-height: 1.5;
     font-size: 18px;
-    color: black;
     font-weight: 500;
 }
